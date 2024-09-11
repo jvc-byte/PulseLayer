@@ -102,3 +102,4 @@ EOL
 
 # Write the config file
 echo "$config" > deploy-config/getting-started.json
+
